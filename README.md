@@ -1,6 +1,6 @@
-# Lucidlinux Install
+# Lucidlinux Scripts
 
-Install and configure archlinux has never been easier!
+Installing, configuring, and customizing archlinux has never been easier!
 
 You can try it first with a `virtualbox`
 
@@ -17,10 +17,10 @@ You can try it first with a `virtualbox`
 
 ## How to use
 - Base-Script-1 [base]: `cd <dir> && ./base-script-1`
-- Customise-Script-2 [customise]: `cd <dir> && ./customise-script-2`
+- Customize-Script-2 [customize]: `cd <dir> && ./customize-script-2`
 
-## Dont want to select everything, rather just have a killer customised desktop?
-- Auto-customise-3.automode [auto-customise]: `cd <dir> && ./auto-customise-3.automode`
+## Dont want to select everything, rather just have a killer customized desktop?
+- Auto-customize-3.automode [auto-customize]: `cd <dir> && ./auto-customize-3.automode`
 
 ## Base Script 1
 - Configure keymap
@@ -39,7 +39,7 @@ You can try it first with a `virtualbox`
 - Configure mirrorlist
 - Configure root password
 
-## Customise Script 2
+## Customize Script 2
 - Backup all modified files
 - Install additional repositories
 - Create and configure new user
