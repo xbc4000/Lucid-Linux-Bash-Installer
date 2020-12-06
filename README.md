@@ -1,4 +1,4 @@
-# Lucidlinux Scripts
+# LucidLinux Scripts
 
 Installing, configuring, and customizing archlinux has never been easier!
 
